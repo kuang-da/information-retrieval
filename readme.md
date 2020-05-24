@@ -1,6 +1,6 @@
 This repo is for the notes based Recommendation System Course provided by Kaikeba. Since the material is in Chinese so my notes will mainly based on Chinese.
 
-课程大纲
+Outlines
 - [ ] 1-Overview
 - [ ] 2-User Proflie
 - [ ] 3-Association Rule Learning
